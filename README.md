@@ -7,9 +7,9 @@ Tìm câu trả lời cho câu hỏi ai hay tại sao có ý định thay đổi
 + Đối tượng nghiên cứu: Các phương pháp phân lớp trong học máy như Random Forest, Decision Tree, Logistic Regression, SVC ứng dụng trong việc phân lớp khách hàng nhằm dự đoán tỷ lệ khách hàng rời bỏ dịch vụ của ngân hàng.
 + Phạm vi nghiên cứu: Với phạm vi các dữ liệu về thông tin khách hàng tại một ngân hàng. Các dữ liệu này được thu thập từ nguồn Kaggle với mục đích dự đoán sự dời đi của khách hàng.
 Bài báo cáo gồm những file sau đây:
-      - Word: 
-      - PPT:
-      - COLAB:
+- Word: 
+- PPT:
+- COLAB:
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
