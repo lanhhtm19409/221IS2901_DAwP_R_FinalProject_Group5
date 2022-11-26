@@ -1,6 +1,6 @@
 # 💫About Me :
 Xin kính chào thầy và các bạn, đây là bài báo cáo của nhóm 5
-Bài báo cáo của nhóm 5 gồm các file sau đây:
+Chủ đề của bài báo cáo là: Dự Đoán Khả Năng Khách Hàng Rời Đi Của Ngân Hàng
 - Word: 
 - PPT:
 - COLAB:
